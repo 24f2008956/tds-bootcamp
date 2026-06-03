@@ -14,6 +14,7 @@ I already knew ...
 - [x] I understand pipes (`|`) and redirection (`>`, `>>`, `2>`) and can chain commands
 - [x] I can set an environment variable in `.bashrc` and apply it with `source ~/.bashrc`
 - [x] I know the difference between `export VAR=value` (available to child processes) and just `VAR=value` (shell-local)
+
 --- After Day-2 ---
 I learned these things as well, apart from the checklist ...
 ---
