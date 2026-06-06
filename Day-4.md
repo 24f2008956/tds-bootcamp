@@ -3,7 +3,7 @@
 
 --- Before Day-4 ---
 I already knew ...
---- 
+---
 
 ## Day-4 Checklist
 
@@ -17,17 +17,14 @@ I already knew ...
 - [x] I can test my API using the Swagger UI at `/docs` and via `curl` from the terminal
 
 --- After Day-4 ---
-I learned how to inspect network requests, test APIs using cURL and Swagger UI, and better understand HTTP status codes and request headers.
+I learned these things as well, apart from the checklist ...
 ---
 
 --- Feedback (Suggestions for the TDS Team) ---
-The session was easy to follow and the practical examples were helpful.
+This is my feedback ...
 ---
 
 ---
-Personal Notes:
-- Learned to use cURL and FastAPI.
-- Understood HTTP methods and status codes better.
 ---
 
-
+You can write your personal notes here; they will not be parsed and are for your own reference.
