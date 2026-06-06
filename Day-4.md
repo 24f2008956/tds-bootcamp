@@ -25,8 +25,9 @@ The session was easy to follow and the practical examples were helpful.
 ---
 
 ---
----
-
 Personal Notes:
 - Learned to use cURL and FastAPI.
 - Understood HTTP methods and status codes better.
+---
+
+
