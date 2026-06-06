@@ -19,3 +19,14 @@ I already knew ...
 --- After Day-4 ---
 I learned how to inspect network requests, test APIs using cURL and Swagger UI, and better understand HTTP status codes and request headers.
 ---
+
+--- Feedback (Suggestions for the TDS Team) ---
+The session was easy to follow and the practical examples were helpful.
+---
+
+---
+---
+
+Personal Notes:
+- Learned to use cURL and FastAPI.
+- Understood HTTP methods and status codes better.
