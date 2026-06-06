@@ -17,14 +17,14 @@ I already knew ...
 - [x] I know the difference between a `.py` script and a `.ipynb` notebook, and when to use each
 
 --- After Day-3 ---
-I learned these things as well, apart from the checklist ...
+I learned how UV simplifies Python dependency management and project setup. I also learned how lockfiles help ensure reproducible environments, how temporary environments work for scripts, and when to use notebooks versus regular Python scripts.
 ---
 
 --- Feedback (Suggestions for the TDS Team) ---
-This is my feedback ...
+The session was practical and easy to follow. More hands-on exercises and real-world examples using UV would make the learning experience even better.
 ---
 
----
----
-
-You can write your personal notes here; they will not be parsed and are for your own reference.
+Personal Notes
+UV is much faster than traditional pip workflows.
+pyproject.toml is the central configuration file for Python projects.
+Lockfiles help maintain consistent dependencies across systems.
