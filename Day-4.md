@@ -21,10 +21,13 @@ I learned these things as well, apart from the checklist ...
 ---
 
 --- Feedback (Suggestions for the TDS Team) ---
-The session was practical and easy to follow. More hands-on exercises and real-world examples using UV would make the learning experience even better.
+The session was practical and easy to follow. More hands-on exercises and real-world examples would make the learning experience even better.
 ---
 
-Personal Notes
-UV is much faster than traditional pip workflows.
-pyproject.toml is the central configuration file for Python projects.
-Lockfiles help maintain consistent dependencies across systems.
+---
+---
+
+You can write your personal notes here; they will not be parsed and are for your own reference.
+
+- Learned to use cURL and FastAPI.
+- Understood HTTP methods and status codes better.
